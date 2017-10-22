@@ -1,0 +1,10 @@
+admin
+opapi
+apik130129
+
+user
+admin9
+password123
+
+
+http://localhost/premises/current/homepage.php
